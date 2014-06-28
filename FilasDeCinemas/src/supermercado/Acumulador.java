@@ -1,6 +1,6 @@
 package supermercado;
 
-/*ssess
+/*
  * Classe utilitaria que realiza calculos de media aritmetica
  */
 public class Acumulador {
